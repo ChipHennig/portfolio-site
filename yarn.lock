@@ -1570,3 +1570,8 @@ yocto-queue@^0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/yocto-queue/-/yocto-queue-0.1.0.tgz#0294eb3dee05028d31ee1a5fa2c556a6aaf10a1b"
   integrity sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==
+
+youtube-background@^1.0.14:
+  version "1.0.14"
+  resolved "https://registry.yarnpkg.com/youtube-background/-/youtube-background-1.0.14.tgz#b3faefa302a408ec901faef138cc35602f65cf43"
+  integrity sha512-9KSE8T6aauWB3khBsZRvl1/pNB2+DgZclGt8b+ko+OkktLAk3mw1WEsb+wNqNiZEKsnU8YLA9wy/hkN/g0eYMQ==

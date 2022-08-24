@@ -1,8 +1,8 @@
 <script>
-	import Ytback from '../lib/ytback.svelte';
+	import Ytback from '../../lib/ytback.svelte';
 </script>
 
-<Ytback id="5gBJrZmbGLo" />
+<Ytback id="2FbCDZnLPqw" />
 
 <p>TODO</p>
 
