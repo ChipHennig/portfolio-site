@@ -1,17 +1,12 @@
-<script>
-	import Ytback from '../lib/ytback.svelte';
-</script>
-
-<Ytback id="5gBJrZmbGLo" />
-
-<p>TODO</p>
+<ul>
+	"Never trust a computer you can't throw out a window." - Steve Wozniak
+	<li><a href="https://github.com/ChipHennig">Github</a></li>
+	<li><a href="https://chip-hennig.medium.com/">Medium</a></li>
+</ul>
 
 <style>
-	:not(iframe) {
+	ul {
 		position: relative;
-		z-index: 2;
 		color: white;
-		font-family: 'Comic Sans MS', cursive;
-		font-size: 2em;
 	}
 </style>

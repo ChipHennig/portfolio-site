@@ -1,17 +1,10 @@
-<script>
-	import Ytback from '../../lib/ytback.svelte';
-</script>
+<p>
+	Thanks for visiting!<br><br>
 
-<Ytback id="2FbCDZnLPqw" />
+	<a href="https://unsplash.com/photos/3_ZGrsirryY">Photo credits</a><br><br>
 
-<p>TODO</p>
+	Contact: chip.hennig@gmail.com
+</p>
 
 <style>
-	:not(iframe) {
-		position: relative;
-		z-index: 2;
-		color: white;
-		font-family: 'Comic Sans MS', cursive;
-		font-size: 2em;
-	}
 </style>

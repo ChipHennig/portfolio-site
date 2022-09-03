@@ -1,17 +1,36 @@
 <script>
-	import Ytback from '../../lib/ytback.svelte';
+	import {
+		Timeline,
+		TimelineItem,
+		TimelineSeparator,
+		TimelineDot,
+		TimelineConnector,
+		TimelineContent
+	} from 'svelte-vertical-timeline';
+
+	const options = [
+		{ title: 'Data Science Intern' },
+		{ title: 'App developer' },
+		{ title: 'Research Assistant' },
+		{ title: 'IT Student worker' },
+		{ title: 'Student Tutor' }
+	];
 </script>
 
-<Ytback id="IvJQTWGP5Fg" />
-
-<p>TODO</p>
+<p>Previous experience:</p>
+<Timeline position="alternate">
+	{#each options as option}
+		<TimelineItem>
+			<TimelineSeparator>
+				<TimelineDot />
+				<TimelineConnector />
+			</TimelineSeparator>
+			<TimelineContent>
+				<a href="/">{option.title}</a>
+			</TimelineContent>
+		</TimelineItem>
+	{/each}
+</Timeline>
 
 <style>
-	:not(iframe) {
-		position: relative;
-		z-index: 2;
-		color: white;
-		font-family: 'Comic Sans MS', cursive;
-		font-size: 2em;
-	}
 </style>

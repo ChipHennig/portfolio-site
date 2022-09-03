@@ -1,17 +1,26 @@
-<nav>
-	<a href="/">Home</a>
-	<a href="/history">About</a>
-	<a href="/credits">Settings</a>
-</nav>
-
-<slot />
+<div id="back">
+	<nav>
+		<a href="/">Home</a>
+		<a href="/history">About</a>
+		<a href="/credits">Contact</a>
+	</nav>
+	<img src={'/denmark.jpg'} alt="Northern lights" />
+	<slot />
+</div>
 
 <style>
-	:not(iframe) {
-        position: relative;
-        z-index: 2;
+	img {
+		width: 100%;
+		height: 30vh;
+		object-fit: cover;
+	}
+	:global(a) {
 		color: white;
-		font-family: 'Comic Sans MS', cursive;
+	}
+	:global(body) {
+		height: 100vh;
+		color: white;
 		font-size: 2em;
+		background-color: tan;
 	}
 </style>
