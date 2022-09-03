@@ -53,7 +53,8 @@
 	];
 </script>
 
-<p>Previous experience:</p>
+<p>Previous experience:<br> <a target="_blank" href="Resume_9-3.pdf">Resume here</a></p>
+
 <Timeline position="alternate">
 	{#each options as option}
 		<TimelineItem>
@@ -77,7 +78,8 @@
 </Timeline>
 
 <style>
-	#desc, a {
+	#desc,
+	a {
 		color: grey;
 	}
 </style>
