@@ -1,6 +1,6 @@
 <div id="back">
 	<nav>
-		<a href="/">Home</a>
+		<a href="/">Christian Hennig</a>
 		<a href="/history">About</a>
 		<a href="/credits">Contact</a>
 	</nav>
