@@ -3,7 +3,7 @@
 	<img alt="fish" src={'ichthys.png'} />
 </div>
 <p>
-	<a target="_blank" href="https://unsplash.com/photos/3_ZGrsirryY">Photo credits</a><br /><br />
+	<a target="_blank" href="https://unsplash.com/photos/a47wTLL0xNA">Photo credits</a><br /><br />
 
 	Contact: chip.hennig@gmail.com
 </p>

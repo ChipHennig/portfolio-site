@@ -1,26 +1,23 @@
-<div id="back">
+
+<div>
 	<nav>
 		<a href="/">Christian Hennig</a>
 		<a href="/history">About</a>
 		<a href="/credits">Contact</a>
 	</nav>
-	<img src={'/denmark.jpg'} alt="Northern lights" />
 	<slot />
 </div>
 
 <style>
-	img {
-		width: 100%;
-		height: 30vh;
-		object-fit: cover;
-	}
 	:global(a) {
-		color: white;
+		color: maroon;
 	}
 	:global(body) {
 		height: 100vh;
-		color: white;
+		color: black;
 		font-size: 2em;
-		background-color: tan;
+		background-image: url('swiss_mountains.jpg');
+		background-attachment: fixed;
+		background-size: cover;
 	}
 </style>
