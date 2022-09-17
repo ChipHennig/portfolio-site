@@ -16,7 +16,7 @@
 		height: 100vh;
 		color: black;
 		font-size: 2em;
-		background-image: url('/swiss_mountains.jpg');
+		background-image: url('/swiss_mountains-min.jpg');
 		background-attachment: fixed;
 		background-size: cover;
 	}
