@@ -10,13 +10,13 @@
 
 <style>
 	:global(a) {
-		color: maroon;
+		color: crimson;
 	}
 	:global(body) {
 		height: 100vh;
-		color: black;
+		color: white;
 		font-size: 2em;
-		background-image: url('/swiss_mountains-min.jpg');
+		background-image: url('/fisheye_night.jpg');
 		background-attachment: fixed;
 		background-size: cover;
 	}
