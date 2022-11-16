@@ -10,13 +10,13 @@
 
 <style>
 	:global(a) {
-		color: crimson;
+		color: maroon;
 	}
 	:global(body) {
 		height: 100vh;
 		color: white;
 		font-size: 2em;
-		background-image: url('/fisheye_night.jpg');
+		background-image: url('/Malojapass_Böhringer_2018.jpg');
 		background-attachment: fixed;
 		background-size: cover;
 	}

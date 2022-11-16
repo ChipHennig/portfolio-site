@@ -3,7 +3,7 @@
 	<img alt="fish" src={'ichthys.png'} />
 </div>
 <p>
-	<a target="_blank" href="https://unsplash.com/photos/ijlKbS-3MRc">Photo credits</a><br /><br />
+	<a target="_blank" href="https://en.wikipedia.org/wiki/Maloja_Pass#/media/File:Malojapass_B%C3%B6hringer_2018.jpg">Photo credits</a><br /><br />
 
 	Contact: chip.hennig@gmail.com
 </p>

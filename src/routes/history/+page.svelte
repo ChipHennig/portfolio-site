@@ -80,6 +80,6 @@
 <style>
 	#desc,
 	a {
-		color: crimson;
+		color: maroon;
 	}
 </style>
