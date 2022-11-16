@@ -53,7 +53,7 @@
 	];
 </script>
 
-<p>Previous experience:<br> <a target="_blank" href="Resume_9-3.pdf">Resume here</a></p>
+<p>Previous experience:<br> <a target="_blank" href="resume-se.pdf">Resume here</a></p>
 
 <Timeline position="alternate">
 	{#each options as option}

@@ -16,7 +16,7 @@
 		height: 100vh;
 		color: white;
 		font-size: 2em;
-		background-image: url('/Malojapass_Böhringer_2018.jpg');
+		background-image: url('/Malojapass_Böhringer_2018-min.jpg');
 		background-attachment: fixed;
 		background-size: cover;
 	}
